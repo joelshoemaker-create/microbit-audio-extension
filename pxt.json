@@ -1,0 +1,16 @@
+{
+    "name": "microbit-audio-clips",
+    "version": "0.0.1",
+    "description": "Play prerecorded audio clips on micro:bit V2",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
